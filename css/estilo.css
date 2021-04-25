@@ -172,7 +172,6 @@ footer figure a:hover { transform: scale(1.09); transition: all 0.3s ease-in; }
 /* Tablets */
 @media only screen and (max-width: 1199px){
     header { height: 80px; }
-    header { height: 80px; }
     header article { width: 80%; height: 80px; }
     header article figure { width: 190px; height: 93px; margin: 0 auto; float: none; }
     header article nav { display: none; }
