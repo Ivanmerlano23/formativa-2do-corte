@@ -246,7 +246,7 @@ footer figure a:hover { transform: scale(1.09); transition: all 0.3s ease-in; }
 /* Móviles Grandes */
 @media only screen and (max-width: 499px){
 
-    main section#slide-imagenes article.slick-banner figure div.contenedor { width: 64%; margin: 3vh auto; }
+    main section#slide-imagenes article.slick-banner figure div.contenedor { width: 64%; margin: 11vh auto; }
     
     main section#banner-video-loop-muted video { height: 40vh; transform: scale(2.0); }
 
